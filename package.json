@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-moment": "~3.0.3",
+        "node-red-node-data-generator": "0.0.5",
+        "node-red-node-mysql": "0.0.18"
+    }
+}
