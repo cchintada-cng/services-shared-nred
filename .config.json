@@ -544,7 +544,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-selenium-webdriver-cng",
-     "file": "C:\\Users\\cchintada\\AppData\\Roaming\\npm\\node_modules\\node-red-contrib-selenium-webdriver-cng\\nodes\\openBrowser\\open-browser.js"
+     "file": "C:\\Users\\cchintada\\node_modules\\red-contrib-selenium-webdriver-cng\\nodes\\openBrowser\\open-browser.js"
     }
    }
   },
@@ -705,7 +705,7 @@
   "node-red-node-mysql": {
    "name": "node-red-node-mysql",
    "version": "0.0.18",
-   "local": false,
+   "local": true,
    "nodes": {
     "mysql": {
      "name": "mysql",
@@ -723,7 +723,7 @@
   "node-red-node-data-generator": {
    "name": "node-red-node-data-generator",
    "version": "0.0.5",
-   "local": false,
+   "local": true,
    "nodes": {
     "data-generator": {
      "name": "data-generator",
@@ -740,7 +740,7 @@
   "node-red-contrib-moment": {
    "name": "node-red-contrib-moment",
    "version": "3.0.3",
-   "local": false,
+   "local": true,
    "nodes": {
     "moment": {
      "name": "moment",

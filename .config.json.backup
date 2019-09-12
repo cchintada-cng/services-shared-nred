@@ -736,6 +736,33 @@
      "file": "C:\\Users\\cchintada\\Desktop\\node_red_projects\\services-shared-nred\\node_modules\\node-red-node-data-generator\\datagenerator.js"
     }
    }
+  },
+  "node-red-contrib-moment": {
+   "name": "node-red-contrib-moment",
+   "version": "3.0.3",
+   "local": false,
+   "nodes": {
+    "moment": {
+     "name": "moment",
+     "types": [
+      "moment"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-moment",
+     "file": "C:\\Users\\cchintada\\Desktop\\node_red_projects\\services-shared-nred\\node_modules\\node-red-contrib-moment\\moment\\nrmoment.js"
+    },
+    "humanizer": {
+     "name": "humanizer",
+     "types": [
+      "humanizer"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-contrib-moment",
+     "file": "C:\\Users\\cchintada\\Desktop\\node_red_projects\\services-shared-nred\\node_modules\\node-red-contrib-moment\\moment\\nrhumanizer.js"
+    }
+   }
   }
  },
  "_credentialSecret": "d6f705ca40e4754ed4c4d97ead815fac7636a5ffe2ecca1a12187dc4d2b3e975",
@@ -758,5 +785,8 @@
     }
    }
   }
+ },
+ "projects": {
+  "projects": {}
  }
 }
